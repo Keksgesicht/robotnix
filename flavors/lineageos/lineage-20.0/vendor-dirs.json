@@ -659,6 +659,17 @@
     "sha256": "0ip5jdk4n4xdza0v4b0a84qbv0znbjzy11pk1498z68l3l8anyrb",
     "url": "https://github.com/TheMuppets/proprietary_vendor_lge_vs995"
   },
+  "vendor/mediatek/sepolicy_vndr": {
+    "date": "2023-07-23T16:48:11+02:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "path": "/nix/store/lhlc22nvkw7ncfcy7s334q2y5y7s8z27-android_device_mediatek_sepolicy_vndr",
+    "rev": "baea66a53f04c496e85d0c6718725020e09c0155",
+    "sha256": "04wfiif718vjqzjgrlan6f6r13rq007icsxzixm3cz21cnqdmw2j",
+    "url": "https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr"
+  },
   "vendor/motorola/beckham": {
     "date": "2022-10-20T11:45:12-04:00",
     "deepClone": false,
